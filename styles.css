@@ -8,8 +8,6 @@
 
 body {
   padding: 0;
-  padding-left: 2px;
-  padding-right: 2px;
   margin: 0;
   background: linear-gradient(to bottom, #bfd0df, #2078c9);
 }
@@ -19,6 +17,8 @@ body {
   justify-content: center;
   align-content: center;
   min-height: 100vh;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 .grid_in {
   display: grid;
